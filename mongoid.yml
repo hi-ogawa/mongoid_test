@@ -1,0 +1,7 @@
+# document is here: https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#anatomy-of-a-mongoid-config
+development:
+  sessions:
+    default:
+      database: whatever_db_name
+      hosts:
+        - localhost:27017
